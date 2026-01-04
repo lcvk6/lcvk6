@@ -1,7 +1,8 @@
 <!-- Profile -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=White&section=header&textBg=false&reversal=false" />
-  <h1>Welcome to my profile ! 🎈✨</h1>
+  <h1>Welcome to my profile ! <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/2dcae62e-e7ab-4ea7-b455-ea5c16826c50" />
+</h1>
 </div>
 
 <!-- About Me -->
