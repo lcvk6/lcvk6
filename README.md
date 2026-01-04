@@ -14,7 +14,7 @@
 
 <!-- Gif -->
 <div align="center">
-  <img height="300" src="./img/hollow-knight-knight.gif"/>
+  <img height="300" src="https://i.pinimg.com/originals/11/44/78/1144785789fa26614662c46b7594e7bd.gif"/>
 </div>
 
 <!-- Skills and Tools -->
