@@ -23,12 +23,16 @@
   <img src="https://skillicons.dev/icons?i=linux,obsidian,powershell,py,neovim,bash,kali,vscode,windows,github" />
 </a>
 
-<!-- Github Stats-->
-### TryhackMe Stats
-<a href="https://tryhackme.com/p/0xnotkyo">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xnotkyo.png" alt="Badge" />
-</div>
-
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=White&section=footer&textBg=false&reversal=false" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
