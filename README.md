@@ -14,7 +14,7 @@
 
 <!-- Gif -->
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/39/90/cd/3990cd692e6c10933c209cbddd9a1a69.gif"/>
+  <img height="300" src="https://camo.githubusercontent.com/2d438acf973ceea5441b4be5ec3024a372dec0bc108e4455d98ba4cc1fa0e9a9/68747470733a2f2f74696e6b65726f732e6769746875622e696f2f496d616765732f7468656d652e676966"/>
 </div>
 
 <!-- Skills and Tools -->
