@@ -5,7 +5,7 @@
 </div>
 
 <!-- About Me -->
-<h3 align="center">Cybersecurity Student | Penetration Tester | Red Team | CTF Player</h3>
+<h3 align="center">Cybersecurity Student | Penetration Tester | Black Team | CTF Player</h3>
 
 <!-- horizontal divider -->
 <div align="center">
